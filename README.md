@@ -7,7 +7,7 @@
 ## 🔗 Latest Release 
 
 - **💾 Version 2.4.0.6** – *Tool files & folders*  
-  👉 [The Latest Release]()
+  👉 [The Latest Release](https://github.com/Sims-4-EA-DLC-Unlocker-Tool/.github/releases)
   
 * **Format:** `.zip` archive
 
